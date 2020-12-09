@@ -1,1 +1,1 @@
-# ajax_ex1
+# ajax-ex1
